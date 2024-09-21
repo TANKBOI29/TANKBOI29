@@ -1,6 +1,5 @@
 # Hi there 👋
-I am a roblox developer and a brand new discord bot developer
-
+Roblox Developer & HTML/CSS Developer
 ### Roblox Projects:
 - https://www.roblox.com/games/10575451262/Archangel-Training-Site - Scripter
 - Tactical Takedown (Beta) - Scripter
