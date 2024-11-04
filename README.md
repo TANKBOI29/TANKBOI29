@@ -11,7 +11,7 @@ Roblox Developer & HTML/CSS Developer
 ##
 
 ### Contact Information
-Discord: Hog Ridda#8766
+Discord: hogriddatm
 Email: tankboiroblox@gmail.com
 <!--
 **TANKBOI29/TANKBOI29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
